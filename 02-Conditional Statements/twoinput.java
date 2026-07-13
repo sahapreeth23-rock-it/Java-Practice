@@ -13,7 +13,9 @@ public class twoinput {
              else{
                 System.out.println("a is lesser than b");
            
-             }
+        }
+    }
+ }    
 
 
 
